@@ -1,5 +1,5 @@
 {
-    "version": "1.1.11",
-    "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.11.zip",
-    "changelog": "customer row add"
+    "version": "1.1.12",
+    "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.12.zip",
+    "changelog": "Improved responsiveness of Customers list table and header"
 }
