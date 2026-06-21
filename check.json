@@ -1,5 +1,5 @@
 {
-    "version": "1.1.7",
-    "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.7.zip",
-    "changelog": "setting update"
+    "version": "1.1.8",
+    "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.8.zip",
+    "changelog": "Renamed branding to Camellia Network Hybrid POS in setup wizard"
 }
