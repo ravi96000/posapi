@@ -1,5 +1,5 @@
 {
-    "version": "1.1.5",
-    "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.5.zip",
-    "changelog": "Fixed chart currency formatting"
+    "version": "1.1.6",
+    "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.6.zip",
+    "changelog": "License validation added"
 }
