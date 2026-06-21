@@ -1,5 +1,5 @@
 {
-    "version": "1.1.12",
-    "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.12.zip",
-    "changelog": "Improved responsiveness of Customers list table and header"
+    "version": "1.1.13",
+    "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.13.zip",
+    "changelog": "Removed WooCommerce ID column and added inline badge to customer name"
 }
