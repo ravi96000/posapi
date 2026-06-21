@@ -1,5 +1,5 @@
 {
     "version": "1.1.10",
     "download_url": "https://raw.githubusercontent.com/ravi96000/posapi/main/update-v1.1.10.zip",
-    "changelog": "customer add"
+    "changelog": "Integrated WooCommerce Customer Synchronization and SMS Gateway"
 }
